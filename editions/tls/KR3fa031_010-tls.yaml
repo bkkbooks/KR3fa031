@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa031/tls/v1/juan/10
+seq: 10
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 文獻通考續文獻通考夢溪筆談授時日法象緯真機薛鳳祚天學會通梅文鼎天算全書李光地天學本要西洋新法日書以下皆西書泰西水法
+  hash: sha256:d26855cd53bc15025c8374a484e1c1d2eaf8726cf5001de929542951fefea18b
+metadata:
+  title: 天象源委
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa031.xml
+hash: sha256:f70c36f5b1bcca1eeeeb148a1564176e51ba721dac482efceec63ae732de689c

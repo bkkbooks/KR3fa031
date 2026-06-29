@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa031/tls/v1/juan/197
+seq: 197
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 天象源委
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa031.xml
+hash: sha256:a1efd2630b9ba361ffb05b5aa7013d8082ea1cf5a6587eb95d192690c49c6b98

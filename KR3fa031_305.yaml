@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa031/tls/v1/juan/305
+seq: 305
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 天象源委
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa031.xml
+hash: sha256:5de9cd5892159bb4d0f1d8db6cc22bfdc8d3b399ca15f6ae1e3d6bc6519d2e8b

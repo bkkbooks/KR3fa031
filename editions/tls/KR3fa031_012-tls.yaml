@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa031/tls/v1/juan/12
+seq: 12
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天法西傳天文實用天文象宗西占天步真源
+  hash: sha256:12e5a5163310a2c675fec05a9e86b0687f558eaa00e535c95e44ad1746285b09
+metadata:
+  title: 天象源委
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa031.xml
+hash: sha256:6e1b0492dbba83af1bc0883f7fe2eb9b33e140dde849aa1bc5620abc5fc94034

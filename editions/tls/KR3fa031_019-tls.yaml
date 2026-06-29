@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa031/tls/v1/juan/19
+seq: 19
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 世運卷十一命法囘年法流月日法卷十二求地平宮法卷十三月離逐卷十四命理卷十五
+  hash: sha256:04cd3efd3b30b1b23e122f0b53a4723b52de93034aa6005cee7e2cabbc259865
+metadata:
+  title: 天象源委
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa031.xml
+hash: sha256:3717d7575ae4ace39f46ba83a3d96ce1863c4385cf9b4aa8b4e44ca610c36276

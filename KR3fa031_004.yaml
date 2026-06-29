@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa031/tls/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 聖祖仁皇帝御纂性理精義審音卷中引御纂歷代三元甲子編年書中凡述七政推算之法皆本以後數書御製欽若歷書御製數理精蘊御製萬年歷御製大清一統皇輿山脉記分野卷中引易經書經詩經
+  hash: sha256:cd8f3ea161115d74a6cdd8274934514ca318bfd5a32e46d3d22f6191ec5e20f3
+metadata:
+  title: 天象源委
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa031.xml
+hash: sha256:fa47483523f6d3cf8dca4b74e1c02157a5358199769369fd305e7681da447d02

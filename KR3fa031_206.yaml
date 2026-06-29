@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa031/tls/v1/juan/206
+seq: 206
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五星在最高衡天氣必有變金後太陽西入金星後太陽西入在天卯末三宫內一宫主當時有雨灾卯末水分若又有太陰水星相照主有雨尤多但止一件不全則雨稍减附冬至用時日占一年及用秋分占明年法會通雲冬至子時看天氣子至卯主七日半卯至午七日半午至酉七日半酉至子七日半共一月冬至後第一日主十二月二日主正月用十二日知一年大概不貞大抵明年雨多雨少占秋分以秋分本性濕故
+  hash: sha256:5c0f2f0f97437e6a136fcc73e5e1325f3ec85ea04b5c7ec0ce23ecd6cabd02be
+metadata:
+  title: 天象源委
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa031.xml
+hash: sha256:bc680d1381c83244df8db1d08f5cee5269cdbd004b66160ad676de1e38d16ef0

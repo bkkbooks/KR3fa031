@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa031/tls/v1/juan/362
+seq: 362
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 金緯大再算金入何宮查表金星在巨蟹一度四十分黃赤距度二十三度二十九分金緯北二度一十一分加之得二十五度四十分水緯大再算水入何宮查表水在陰陽十一度一十八分黃赤距緯二十二度一十一分水緯北一度四十分加之淂二十三度五十一分
+  hash: sha256:97cab76160b53a83a330e9c62494934645c0841293132a6c41ce0a94708f64c1
+metadata:
+  title: 天象源委
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa031.xml
+hash: sha256:e50388e728e0977602ac5406089f569e9ce8749189efab6b86222b4d3f8c5ab0

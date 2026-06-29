@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa031/tls/v1/juan/113
+seq: 113
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 考緯北強緯南若上下見九權
+  hash: sha256:70f0dc22dc9fed4f00459d0cda53b2ccfbda7b9d2333bf7414ab11bb92c56b27
+metadata:
+  title: 天象源委
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa031.xml
+hash: sha256:ab9ce2c601b619773ad614bf574f42939e42dba9a6bf2098ddfcf255c83940bf

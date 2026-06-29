@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa031/tls/v1/juan/21
+seq: 21
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 西法十五格卷十六選擇卷十七望氣卷十八審音卷十九軍占卷二十
+  hash: sha256:b276dd32e0ef7a76dc7345563336f34505d580b84ee3d200cb5a1b448cb8a542
+metadata:
+  title: 天象源委
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa031.xml
+hash: sha256:f33f9dedad6ef6963685ec4969fa79162f65bb5d199c423c4862cc2fe5b7ab5f

@@ -1,0 +1,25 @@
+canonical_identifier: bkk:krp/KR3fa031/bkk/v1/markers/2
+seq: 2
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fa031_tls_001-p1.s2}
+  - {type: line-break, offset: 0, content: '', id: KX_2}
+  - {type: substitution, offset: 13, original: 騐, replacement: 驗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1041}}
+  - {type: 'tls:seg', offset: 26, content: '', id: KR3fa031_tls_001-p1.s3}
+  - {type: line-break, offset: 26, content: '', id: KX_3}
+  - {type: substitution, offset: 29, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: 'tls:seg', offset: 50, content: '', id: KR3fa031_tls_001-p1.s4}
+  - {type: line-break, offset: 50, content: '', id: KX_4}
+  - {type: 'tls:seg', offset: 74, content: '', id: KR3fa031_tls_001-p1.s5}
+  - {type: line-break, offset: 74, content: '', id: KX_5}
+  - {type: substitution, offset: 76, original: 疎, replacement: 疏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1306}}
+  - {type: 'tls:seg', offset: 98, content: '', id: KR3fa031_tls_001-p1.s6}
+  - {type: line-break, offset: 98, content: '', id: KX_6}
+  - {type: substitution, offset: 109, original: 着, replacement: 著, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3761}}
+  - {type: 'tls:seg', offset: 116, content: '', id: KR3fa031_tls_001-p1.s7}
+  - {type: line-break, offset: 116, content: '', id: KX_7}
+  - {type: 'tls:seg', offset: 119, content: '', id: KR3fa031_tls_001-p1.s8}
+  - {type: line-break, offset: 119, content: '', id: KX_8}
+  back: []
+hash: sha256:43373493d7df1d1959b85f45639764e9449b3d9551d4cd4c62a481c2b7cc304d

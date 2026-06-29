@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa031/tls/v1/juan/17
+seq: 17
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 占時風雨雪電霧露霜雪卷六占奱大會交食務卷七占國國家政治人事禍福卷八占歲五鼓豐歉百物盛衰卷九占異旱潦疾疫兵戈盜賊卷十
+  hash: sha256:8ec19279fecc257e34376e84c7a9db07e80f944afd8a4e45de4cb0efaf1de3fb
+metadata:
+  title: 天象源委
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa031.xml
+hash: sha256:fa388a3b11bb35af08c6df230b61e695dab3225212fde409a2419aa134e02167

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa031/tls/v1/juan/166
+seq: 166
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 恒星初起
+  hash: sha256:8ad895fd08eeeafe6ed21c2954b51d9f98961bb5922dca55b50181a8657c53a3
+metadata:
+  title: 天象源委
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa031.xml
+hash: sha256:673c3be0a3e03bf20c4377ee74908aec11e1fdc2f84b82204c13e4dde4c98408

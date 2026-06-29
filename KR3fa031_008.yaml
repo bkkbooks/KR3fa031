@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa031/tls/v1/juan/8
+seq: 8
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 六韜通書皇極經世律呂新書小學紺珠史記漢書隋書唐書宋史
+  hash: sha256:855b7b407230268428aaa522706e6e835f7df9d92b846926a69fd129f1ecc706
+metadata:
+  title: 天象源委
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa031.xml
+hash: sha256:5aadb581e265b380fdb74e82676c9b796e10a0a19e54cbdcbe9af0ef73595982

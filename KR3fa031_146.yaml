@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa031/tls/v1/juan/146
+seq: 146
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第四舍頂天頂之冲強力莫之興此如十一如九如二如五如十二如三舍皆約有力惟六八二舍最劣喜樂宮象宗云水星在一宮即一門東方邱上月三宮金五宮火六宮日九宮木十一宮土十二宮
+  hash: sha256:fed065ede0b3928dda37542cead2cff6ce418575c358afdc4ab602984df99a03
+metadata:
+  title: 天象源委
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa031.xml
+hash: sha256:b9598b9caba33dd787aca04f4b4dc7e62aab82a65d9a2ccd7ec403bd166ea07f

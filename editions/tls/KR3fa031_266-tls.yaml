@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa031/tls/v1/juan/266
+seq: 266
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二星中間有一星力强此二星指太陰與朔望命主星在四宮七宮或四宮七宮中间有强則物價不增物盛之故而人員者却多無力則物價增物之員者少一星在四宮一星在七宮中間一星各吉照或二星宮俱在七宮而一星在雨星之中間二星中有力之星在下去宮若有力之星太陰朔望命主星中一星在三宮或九宮下去宮則物價疾物盛之故若其星無力則物價增物衰之故且貴遅四柱上主星有力上升又在界占安年命宮四柱上并四季命宮四柱上看是何星所管其星有力又在夲輪上升又在分定度界則其星所之物盛行疾易貴行遅物少
+  hash: sha256:8139989136c825e6ab2a2b632b076c8f411bd88d4ef0a852d8cc686767be6fa6
+metadata:
+  title: 天象源委
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa031.xml
+hash: sha256:c46f0b2fbd0803b82e6d78dd432ecde0471d62b8ec264dc43a5b67e7b5730a2b

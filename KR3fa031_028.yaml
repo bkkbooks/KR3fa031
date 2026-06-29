@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa031/tls/v1/juan/28
+seq: 28
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 論有用總論
+  hash: sha256:e2d71c5b76cb751015a1ef73a181bc1ed135b3d48aa41cfddab71278a5153a5e
+metadata:
+  title: 天象源委
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa031.xml
+hash: sha256:16ad977a28166bb22f07a113e8147908bbb8ff245086d32b2e9dca446def4027

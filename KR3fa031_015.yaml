@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa031/tls/v1/juan/15
+seq: 15
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天象源委總目卷一象理卷二象性卷三象度卷四恆星卷五
+  hash: sha256:1c325c85eb75e67e755422fad5f748780f3b79a19ca570017ff108c62f21d24c
+metadata:
+  title: 天象源委
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa031.xml
+hash: sha256:34c53cd7018b393a8ec8cc85d04496c519c9b1ac25d71ac278446b9078d7d55a

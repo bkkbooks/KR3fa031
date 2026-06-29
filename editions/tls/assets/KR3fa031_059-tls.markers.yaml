@@ -1,0 +1,47 @@
+canonical_identifier: bkk:krp/KR3fa031/tls/v1/markers/59
+seq: 59
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fa031_tls_001-p24.s1}
+  - {type: line-break, offset: 0, content: '', id: KX_1_dup21, _xml_error: duplicate-id, _xml_original_id: KX_1}
+  - {type: 'tls:seg', offset: 24, content: '', id: KR3fa031_tls_001-p24.s2}
+  - {type: line-break, offset: 24, content: '', id: KX_2_dup23, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: 'tls:seg', offset: 48, content: '', id: KR3fa031_tls_001-p24.s3}
+  - {type: line-break, offset: 48, content: '', id: KX_3_dup22, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: 'tls:seg', offset: 72, content: '', id: KR3fa031_tls_001-p24.s4}
+  - {type: line-break, offset: 72, content: '', id: KX_4_dup22, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  - {type: 'tls:seg', offset: 96, content: '', id: KR3fa031_tls_001-p24.s5}
+  - {type: line-break, offset: 96, content: '', id: KX_5_dup21, _xml_error: duplicate-id, _xml_original_id: KX_5}
+  - {type: 'tls:seg', offset: 120, content: '', id: KR3fa031_tls_001-p24.s6}
+  - {type: line-break, offset: 120, content: '', id: KX_6_dup21, _xml_error: duplicate-id, _xml_original_id: KX_6}
+  - {type: 'tls:seg', offset: 144, content: '', id: KR3fa031_tls_001-p24.s7}
+  - {type: line-break, offset: 144, content: '', id: KX_7_dup21, _xml_error: duplicate-id, _xml_original_id: KX_7}
+  - {type: 'tls:seg', offset: 168, content: '', id: KR3fa031_tls_001-p24.s8}
+  - {type: line-break, offset: 168, content: '', id: KX_8_dup21, _xml_error: duplicate-id, _xml_original_id: KX_8}
+  - {type: 'tls:seg', offset: 192, content: '', id: KR3fa031_tls_001-p24.s9}
+  - {type: line-break, offset: 192, content: '', id: KX_9_dup20, _xml_error: duplicate-id, _xml_original_id: KX_9}
+  - {type: 'tls:seg', offset: 216, content: '', id: KR3fa031_tls_001-p24.s10}
+  - {type: line-break, offset: 216, content: '', id: KX_10_dup20, _xml_error: duplicate-id, _xml_original_id: KX_10}
+  - {type: 'tls:seg', offset: 240, content: '', id: KR3fa031_tls_001-p24.s12}
+  - {type: line-break, offset: 240, content: '', id: KX_12_dup20, _xml_error: duplicate-id, _xml_original_id: KX_12}
+  - {type: 'tls:seg', offset: 264, content: '', id: KR3fa031_tls_001-p24.s13}
+  - {type: line-break, offset: 264, content: '', id: KX_13_dup20, _xml_error: duplicate-id, _xml_original_id: KX_13}
+  - {type: 'tls:seg', offset: 288, content: '', id: KR3fa031_tls_001-p24.s14}
+  - {type: line-break, offset: 288, content: '', id: KX_14_dup20, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  - {type: 'tls:seg', offset: 312, content: '', id: KR3fa031_tls_001-p24.s15}
+  - {type: line-break, offset: 312, content: '', id: KX_15_dup20, _xml_error: duplicate-id, _xml_original_id: KX_15}
+  - {type: 'tls:seg', offset: 336, content: '', id: KR3fa031_tls_001-p24.s16}
+  - {type: line-break, offset: 336, content: '', id: KX_16_dup20, _xml_error: duplicate-id, _xml_original_id: KX_16}
+  - {type: 'tls:seg', offset: 360, content: '', id: KR3fa031_tls_001-p24.s17}
+  - {type: line-break, offset: 360, content: '', id: KX_17_dup20, _xml_error: duplicate-id, _xml_original_id: KX_17}
+  - {type: 'tls:seg', offset: 362, content: '', id: KR3fa031_tls_001-p24.s18}
+  - {type: line-break, offset: 362, content: '', id: KX_18_dup20, _xml_error: duplicate-id, _xml_original_id: KX_18}
+  - {type: 'tls:seg', offset: 373, content: '', id: KR3fa031_tls_001-p24.s19}
+  - {type: line-break, offset: 373, content: '', id: KX_19_dup20, _xml_error: duplicate-id, _xml_original_id: KX_19}
+  - {type: 'tls:seg', offset: 397, content: '', id: KR3fa031_tls_001-p24.s20}
+  - {type: line-break, offset: 397, content: '', id: KX_20_dup20, _xml_error: duplicate-id, _xml_original_id: KX_20}
+  - {type: 'tls:seg', offset: 421, content: '', id: KR3fa031_tls_001-p24.s21}
+  - {type: line-break, offset: 421, content: '', id: KX_21_dup20, _xml_error: duplicate-id, _xml_original_id: KX_21}
+  back: []
+hash: sha256:b7cc55c8e3056526a5439bc20ef1708f9db352072d3595c67adb5b35df9fc552

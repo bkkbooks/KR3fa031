@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa031/tls/v1/juan/6
+seq: 6
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 春秋左傳禮記周禮四書爾雅莊子淮南子論衡潛夫論
+  hash: sha256:db27a359db9afd066025cecfd38699ba328250ed89abc7b0c18dcac831dbfabb
+metadata:
+  title: 天象源委
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa031.xml
+hash: sha256:7fb713094b45016f17492c325e271c2aeb74b1ee87f2521c4dbd6405ebbd33c2

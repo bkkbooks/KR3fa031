@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa031/tls/v1/juan/306
+seq: 306
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 應在何城池其橫事最重處在何城池假如有日食看日食宫分是何城池安年命宫或四宫七宫十宫見交食亦可頰推論土木同度應事重大凡一應大事有更變但看土木二星同宫同度時為主若交運之際土木二星若同宫同度更為重大所論世運季運原屬西法
+  hash: sha256:43146bf839a50e5e59e34f2758a48dac955a5c4a710b98cd579ca03bb1728b1f
+metadata:
+  title: 天象源委
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa031.xml
+hash: sha256:026c2db8baaa261b166bc0c0ab235cf8c869594bcec534d7fd2c8063261b398b
