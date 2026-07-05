@@ -5,7 +5,6 @@ markers:
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR3fa031_tls_001-p59.s1}
   - {type: line-break, offset: 0, content: '', id: KX_1_dup54, _xml_error: duplicate-id, _xml_original_id: KX_1}
-  - {type: substitution, offset: 23, original: 随, replacement: 隨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1166}}
   - {type: 'tls:seg', offset: 24, content: '', id: KR3fa031_tls_001-p59.s2.1}
   - {type: line-break, offset: 24, content: '', id: KX_2_dup57, _xml_error: duplicate-id, _xml_original_id: KX_2}
   - {type: 'tls:seg-start', offset: 42, content: '', id: KR3fa031_tls_001-p59.s2.2, seg_type: comm, member_ids: [KR3fa031_tls_001-p59.s2.2]}
@@ -26,7 +25,6 @@ markers:
   - {type: line-break, offset: 113, content: '', id: KX_6_dup55, _xml_error: duplicate-id, _xml_original_id: KX_6}
   - {type: 'tls:seg', offset: 136, content: '', id: KR3fa031_tls_001-p59.s7}
   - {type: line-break, offset: 136, content: '', id: KX_7_dup55, _xml_error: duplicate-id, _xml_original_id: KX_7}
-  - {type: substitution, offset: 155, original: 凢, replacement: 凡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0011}}
   - {type: 'tls:seg', offset: 159, content: '', id: KR3fa031_tls_001-p59.s8}
   - {type: line-break, offset: 159, content: '', id: KX_8_dup55, _xml_error: duplicate-id, _xml_original_id: KX_8}
   - {type: 'tls:seg', offset: 180, content: '', id: KR3fa031_tls_001-p59.s9}
@@ -58,4 +56,4 @@ markers:
   - {type: 'tls:seg', offset: 362, content: '', id: KR3fa031_tls_001-p59.s21}
   - {type: line-break, offset: 362, content: '', id: KX_21_dup50, _xml_error: duplicate-id, _xml_original_id: KX_21}
   back: []
-hash: sha256:310b603aca69fec90749d364c923d84c193bbd2a286e8f1879d893a74ca7e73f
+hash: sha256:1eedc5ba2c62567864ace880cfc23cdd5da16e71191649d0a395e76fa2d2f8ef

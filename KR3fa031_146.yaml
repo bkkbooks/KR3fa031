@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 第四舍頂天頂之冲強力莫之興此如十一如九如二如五如十二如三舍皆約有力惟六八二舍最劣喜樂宮象宗云水星在一宮即一門東方邱上月三宮金五宮火六宮日九宮木十一宮土十二宮
-  hash: sha256:fed065ede0b3928dda37542cead2cff6ce418575c358afdc4ab602984df99a03
+  text: 第四舎頂天頂之冲強力莫之興此如十一如九如二如五如十二如三舎皆約有力惟六八二舎最劣喜樂宮象宗云水星在一宮即一門東方邱上月三宮金五宮火六宮日九宮木十一宮土十二宮
+  hash: sha256:d1eeb9f9c4f3eced92b5cbe12f5a69722bf6bd63bd1c78869c88c3738a054525
 metadata:
   title: 天象源委
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fa031.xml
-hash: sha256:b9598b9caba33dd787aca04f4b4dc7e62aab82a65d9a2ccd7ec403bd166ea07f
+hash: sha256:44a48facdd8efd80463ae6bd4f1331eb059789a5faae66c1329d366453b0cf8c

@@ -23,8 +23,6 @@ markers:
   - {type: line-break, offset: 192, content: '', id: KX_9_dup20, _xml_error: duplicate-id, _xml_original_id: KX_9}
   - {type: 'tls:seg', offset: 216, content: '', id: KR3fa031_tls_001-p24.s10}
   - {type: line-break, offset: 216, content: '', id: KX_10_dup20, _xml_error: duplicate-id, _xml_original_id: KX_10}
-  - {type: substitution, offset: 228, original: 属, replacement: 屬, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1304}}
-  - {type: substitution, offset: 236, original: 悪, replacement: 惡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4328}}
   - {type: 'tls:seg', offset: 240, content: '', id: KR3fa031_tls_001-p24.s12}
   - {type: line-break, offset: 240, content: '', id: KX_12_dup20, _xml_error: duplicate-id, _xml_original_id: KX_12}
   - {type: 'tls:seg', offset: 264, content: '', id: KR3fa031_tls_001-p24.s13}
@@ -43,9 +41,7 @@ markers:
   - {type: line-break, offset: 373, content: '', id: KX_19_dup20, _xml_error: duplicate-id, _xml_original_id: KX_19}
   - {type: 'tls:seg', offset: 397, content: '', id: KR3fa031_tls_001-p24.s20}
   - {type: line-break, offset: 397, content: '', id: KX_20_dup20, _xml_error: duplicate-id, _xml_original_id: KX_20}
-  - {type: substitution, offset: 409, original: 説, replacement: 說, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3528}}
   - {type: 'tls:seg', offset: 421, content: '', id: KR3fa031_tls_001-p24.s21}
   - {type: line-break, offset: 421, content: '', id: KX_21_dup20, _xml_error: duplicate-id, _xml_original_id: KX_21}
-  - {type: substitution, offset: 434, original: 説, replacement: 說, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3528}}
   back: []
-hash: sha256:5fea3ed4b50d0d4eaf223340e5d4db491573dad203e9eeabd4fe6632bd645799
+hash: sha256:87f299f45a9e3176bb307465060db903eda530b7b5c373671c97b32b4a470c8c

@@ -54,10 +54,8 @@ markers:
   - {type: line-break, offset: 260, content: '', id: KX_16_dup133, _xml_error: duplicate-id, _xml_original_id: KX_16}
   - {type: 'tls:seg', offset: 275, content: '', id: KR3fa031_tls_001-p146.s17}
   - {type: line-break, offset: 275, content: '', id: KX_17_dup133, _xml_error: duplicate-id, _xml_original_id: KX_17}
-  - {type: substitution, offset: 290, original: 属, replacement: 屬, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1304}}
   - {type: 'tls:seg', offset: 299, content: '', id: KR3fa031_tls_001-p146.s18}
   - {type: line-break, offset: 299, content: '', id: KX_18_dup133, _xml_error: duplicate-id, _xml_original_id: KX_18}
-  - {type: substitution, offset: 305, original: 横, replacement: 橫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4506}}
   - {type: 'tls:seg', offset: 308, content: '', id: KR3fa031_tls_001-p146.s19}
   - {type: line-break, offset: 308, content: '', id: KX_19_dup133, _xml_error: duplicate-id, _xml_original_id: KX_19}
   - {type: 'tls:seg', offset: 327, content: '', id: KR3fa031_tls_001-p146.s20.1}
@@ -69,6 +67,5 @@ markers:
   - {type: 'tls:seg', offset: 348, content: '', id: KR3fa031_tls_001-p146.s20.3}
   - {type: 'tls:seg', offset: 358, content: '', id: KR3fa031_tls_001-p146.s21}
   - {type: line-break, offset: 358, content: '', id: KX_21_dup127, _xml_error: duplicate-id, _xml_original_id: KX_21}
-  - {type: substitution, offset: 371, original: 祸, replacement: 禍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1159}}
   back: []
-hash: sha256:dc1de7dbd40971dac86c05679098bdd0eeca717f9d673193bf36edc5f712fda7
+hash: sha256:40d2f6d2f769ea1bba09a2af44a2caecc7abc1a6663b766b5a8517165ff7ad5d

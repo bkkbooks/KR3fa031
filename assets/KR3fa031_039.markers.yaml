@@ -5,7 +5,6 @@ markers:
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR3fa031_tls_001-p14.s1}
   - {type: line-break, offset: 0, content: '', id: KX_1_dup11, _xml_error: duplicate-id, _xml_original_id: KX_1}
-  - {type: substitution, offset: 5, original: 选, replacement: 選, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0752}}
   - {type: 'tls:seg', offset: 24, content: '', id: KR3fa031_tls_001-p14.s2}
   - {type: line-break, offset: 24, content: '', id: KX_2_dup13, _xml_error: duplicate-id, _xml_original_id: KX_2}
   - {type: 'tls:seg', offset: 48, content: '', id: KR3fa031_tls_001-p14.s3}
@@ -49,13 +48,11 @@ markers:
   - {type: line-break, offset: 350, content: '', id: KX_17_dup10, _xml_error: duplicate-id, _xml_original_id: KX_17}
   - {type: 'tls:seg', offset: 374, content: '', id: KR3fa031_tls_001-p14.s18}
   - {type: line-break, offset: 374, content: '', id: KX_18_dup10, _xml_error: duplicate-id, _xml_original_id: KX_18}
-  - {type: substitution, offset: 394, original: 説, replacement: 說, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3528}}
   - {type: 'tls:seg', offset: 398, content: '', id: KR3fa031_tls_001-p14.s19}
   - {type: line-break, offset: 398, content: '', id: KX_19_dup10, _xml_error: duplicate-id, _xml_original_id: KX_19}
-  - {type: substitution, offset: 420, original: 数, replacement: 數, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1399}}
   - {type: 'tls:seg', offset: 422, content: '', id: KR3fa031_tls_001-p14.s20}
   - {type: line-break, offset: 422, content: '', id: KX_20_dup10, _xml_error: duplicate-id, _xml_original_id: KX_20}
   - {type: 'tls:seg', offset: 446, content: '', id: KR3fa031_tls_001-p14.s21}
   - {type: line-break, offset: 446, content: '', id: KX_21_dup10, _xml_error: duplicate-id, _xml_original_id: KX_21}
   back: []
-hash: sha256:4faab75eaa8a1f0371b86f3c52ce1eee8a107bb7146e8ff9d7b05297d5725147
+hash: sha256:ed7382ecbd73d8dea01da17a1b6c0637d62cf977446da01f132a9a62c79ee504
