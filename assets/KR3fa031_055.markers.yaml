@@ -24,6 +24,8 @@ markers:
   - {type: line-break, offset: 148, content: '', id: KX_7_dup19, _xml_error: duplicate-id, _xml_original_id: KX_7}
   - {type: 'tls:seg', offset: 172, content: '', id: KR3fa031_tls_001-p22.s8}
   - {type: line-break, offset: 172, content: '', id: KX_8_dup19, _xml_error: duplicate-id, _xml_original_id: KX_8}
+  - {type: substitution, offset: 183, original: 顕, replacement: 顯, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20107}}
+  - {type: substitution, offset: 194, original: 将, replacement: 將, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16985}}
   - {type: 'tls:seg', offset: 196, content: '', id: KR3fa031_tls_001-p22.s9}
   - {type: line-break, offset: 196, content: '', id: KX_9_dup18, _xml_error: duplicate-id, _xml_original_id: KX_9}
   - {type: 'tls:seg', offset: 220, content: '', id: KR3fa031_tls_001-p22.s10}
@@ -31,12 +33,16 @@ markers:
   - {type: punctuation, offset: 233, content: □, id: KR3fa031_tls_055-bkkpn1}
   - {type: 'tls:seg', offset: 243, content: '', id: KR3fa031_tls_001-p22.s12}
   - {type: line-break, offset: 243, content: '', id: KX_12_dup18, _xml_error: duplicate-id, _xml_original_id: KX_12}
+  - {type: substitution, offset: 253, original: 数, replacement: 數, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17639}}
   - {type: 'tls:seg', offset: 267, content: '', id: KR3fa031_tls_001-p22.s13}
   - {type: line-break, offset: 267, content: '', id: KX_13_dup18, _xml_error: duplicate-id, _xml_original_id: KX_13}
+  - {type: substitution, offset: 278, original: 閱, replacement: 閲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20841}}
   - {type: 'tls:seg', offset: 291, content: '', id: KR3fa031_tls_001-p22.s14}
   - {type: line-break, offset: 291, content: '', id: KX_14_dup18, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  - {type: substitution, offset: 301, original: 勅, replacement: 敕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20718}}
   - {type: 'tls:seg', offset: 315, content: '', id: KR3fa031_tls_001-p22.s15}
   - {type: line-break, offset: 315, content: '', id: KX_15_dup18, _xml_error: duplicate-id, _xml_original_id: KX_15}
+  - {type: substitution, offset: 335, original: 迨, replacement: 逮, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19368}}
   - {type: 'tls:seg', offset: 338, content: '', id: KR3fa031_tls_001-p22.s16}
   - {type: line-break, offset: 338, content: '', id: KX_16_dup18, _xml_error: duplicate-id, _xml_original_id: KX_16}
   - {type: 'tls:seg', offset: 363, content: '', id: KR3fa031_tls_001-p22.s17}
@@ -47,7 +53,8 @@ markers:
   - {type: line-break, offset: 411, content: '', id: KX_19_dup18, _xml_error: duplicate-id, _xml_original_id: KX_19}
   - {type: 'tls:seg', offset: 435, content: '', id: KR3fa031_tls_001-p22.s20}
   - {type: line-break, offset: 435, content: '', id: KX_20_dup18, _xml_error: duplicate-id, _xml_original_id: KX_20}
+  - {type: substitution, offset: 442, original: 複, replacement: 復, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20156}}
   - {type: 'tls:seg', offset: 459, content: '', id: KR3fa031_tls_001-p22.s21}
   - {type: line-break, offset: 459, content: '', id: KX_21_dup18, _xml_error: duplicate-id, _xml_original_id: KX_21}
   back: []
-hash: sha256:4f66f98b8baac9d9f038edf10c0291f3fe34f0c10dbf185d21fa36e42f76bc7e
+hash: sha256:5648ea3385fbe71c883cbf20a9f8a0d9ba5d165f94f44f222f27c1cc942520ff

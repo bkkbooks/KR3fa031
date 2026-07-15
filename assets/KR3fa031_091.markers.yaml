@@ -7,6 +7,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KX_1_dup36, _xml_error: duplicate-id, _xml_original_id: KX_1}
   - {type: 'tls:seg', offset: 24, content: '', id: KR3fa031_tls_001-p40.s2}
   - {type: line-break, offset: 24, content: '', id: KX_2_dup39, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: substitution, offset: 24, original: 属, replacement: 屬, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17536}}
   - {type: 'tls:seg', offset: 48, content: '', id: KR3fa031_tls_001-p40.s3}
   - {type: line-break, offset: 48, content: '', id: KX_3_dup38, _xml_error: duplicate-id, _xml_original_id: KX_3}
   - {type: 'tls:seg', offset: 49, content: '', id: KR3fa031_tls_001-p40.s4}
@@ -17,6 +18,7 @@ markers:
   - {type: line-break, offset: 97, content: '', id: KX_6_dup37, _xml_error: duplicate-id, _xml_original_id: KX_6}
   - {type: 'tls:seg', offset: 121, content: '', id: KR3fa031_tls_001-p40.s7}
   - {type: line-break, offset: 121, content: '', id: KX_7_dup37, _xml_error: duplicate-id, _xml_original_id: KX_7}
+  - {type: substitution, offset: 133, original: 觧, replacement: 解, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19553}}
   - {type: 'tls:seg', offset: 145, content: '', id: KR3fa031_tls_001-p40.s8}
   - {type: line-break, offset: 145, content: '', id: KX_8_dup37, _xml_error: duplicate-id, _xml_original_id: KX_8}
   - {type: 'tls:seg', offset: 169, content: '', id: KR3fa031_tls_001-p40.s9}
@@ -28,6 +30,7 @@ markers:
   - {type: line-break, offset: 216, content: '', id: KX_12_dup35, _xml_error: duplicate-id, _xml_original_id: KX_12}
   - {type: 'tls:seg', offset: 221, content: '', id: KR3fa031_tls_001-p40.s13}
   - {type: line-break, offset: 221, content: '', id: KX_13_dup35, _xml_error: duplicate-id, _xml_original_id: KX_13}
+  - {type: substitution, offset: 234, original: 冲, replacement: 沖, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16379}}
   - {type: 'tls:seg', offset: 245, content: '', id: KR3fa031_tls_001-p40.s14}
   - {type: line-break, offset: 245, content: '', id: KX_14_dup35, _xml_error: duplicate-id, _xml_original_id: KX_14}
   - {type: 'tls:seg', offset: 267, content: '', id: KR3fa031_tls_001-p40.s15}
@@ -40,6 +43,8 @@ markers:
   - {type: line-break, offset: 315, content: '', id: KX_18_dup35, _xml_error: duplicate-id, _xml_original_id: KX_18}
   - {type: 'tls:seg', offset: 339, content: '', id: KR3fa031_tls_001-p40.s19}
   - {type: line-break, offset: 339, content: '', id: KX_19_dup35, _xml_error: duplicate-id, _xml_original_id: KX_19}
+  - {type: substitution, offset: 339, original: 来, replacement: 來, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16500}}
+  - {type: substitution, offset: 342, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'tls:seg', offset: 363, content: '', id: KR3fa031_tls_001-p40.s20.1}
   - {type: line-break, offset: 363, content: '', id: KX_20_dup35, _xml_error: duplicate-id, _xml_original_id: KX_20}
   - {type: punctuation, offset: 370, content: □, id: KR3fa031_tls_091-bkkpn2}
@@ -61,4 +66,4 @@ markers:
   - {type: 'tls:seg-end', offset: 403, content: '', id: KR3fa031_tls_001-p40.s21.4_end, seg_type: comm}
   - {type: 'tls:seg', offset: 403, content: '', id: KR3fa031_tls_001-p40.s21.5}
   back: []
-hash: sha256:766b10c2a8bbe3fbfb21d3e8741bc04ad131cbd5827b186135dfec354d8df165
+hash: sha256:969e7512b18b9fb145d3c4f23da4f3dd65ce010d9caf9ef175882998201bcdf5

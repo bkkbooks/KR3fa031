@@ -5,8 +5,12 @@ markers:
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR3fa031_tls_001-p67.s1}
   - {type: line-break, offset: 0, content: '', id: KX_1_dup62, _xml_error: duplicate-id, _xml_original_id: KX_1}
+  - {type: substitution, offset: 2, original: 舎, replacement: 舍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20673}}
+  - {type: substitution, offset: 7, original: 冲, replacement: 沖, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16379}}
   - {type: 'tls:seg', offset: 24, content: '', id: KR3fa031_tls_001-p67.s2}
   - {type: line-break, offset: 24, content: '', id: KX_2_dup65, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: substitution, offset: 28, original: 舎, replacement: 舍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20673}}
+  - {type: substitution, offset: 37, original: 舎, replacement: 舍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20673}}
   - {type: 'tls:seg', offset: 40, content: '', id: KR3fa031_tls_001-p67.s3}
   - {type: line-break, offset: 40, content: '', id: KX_3_dup64, _xml_error: duplicate-id, _xml_original_id: KX_3}
   - {type: 'tls:seg', offset: 43, content: '', id: KR3fa031_tls_001-p67.s4.1}
@@ -19,4 +23,4 @@ markers:
   - {type: 'tls:seg', offset: 70, content: '', id: KR3fa031_tls_001-p67.s5}
   - {type: line-break, offset: 70, content: '', id: KX_5_dup63, _xml_error: duplicate-id, _xml_original_id: KX_5}
   back: []
-hash: sha256:d201eeae996e9834bfacd750069c34a3863045f7759071d099586498abeffd16
+hash: sha256:c61058fab749cb0e74d536e358742ad1a044ee38cf82d7a4481805ad08399d0e

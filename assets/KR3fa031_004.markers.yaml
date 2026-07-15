@@ -5,6 +5,7 @@ markers:
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR3fa031_tls_001-p2.s2.1}
   - {type: line-break, offset: 0, content: '', id: KX_2_dup2, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: substitution, offset: 0, original: 圣, replacement: 聖, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16294}}
   - {type: 'tls:seg-start', offset: 11, content: '', id: KR3fa031_tls_001-p2.s2.2, seg_type: comm, member_ids: [KR3fa031_tls_001-p2.s2.2]}
   - {type: 'tls:seg', offset: 11, content: '', id: KR3fa031_tls_001-p2.s2.2}
   - {type: line-break, offset: 14, content: '', id: KR3fa031_tls_004-bkklb1}
@@ -23,6 +24,8 @@ markers:
   - {type: line-break, offset: 54, content: '', id: KX_6_dup2, _xml_error: duplicate-id, _xml_original_id: KX_6}
   - {type: 'tls:seg', offset: 59, content: '', id: KR3fa031_tls_001-p2.s7.1}
   - {type: line-break, offset: 59, content: '', id: KX_7_dup2, _xml_error: duplicate-id, _xml_original_id: KX_7}
+  - {type: substitution, offset: 66, original: 舆, replacement: 輿, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17693}}
+  - {type: substitution, offset: 68, original: 脉, replacement: 脈, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16969}}
   - {type: 'tls:seg-start', offset: 70, content: '', id: KR3fa031_tls_001-p2.s7.2, seg_type: comm, member_ids: [KR3fa031_tls_001-p2.s7.2]}
   - {type: 'tls:seg', offset: 70, content: '', id: KR3fa031_tls_001-p2.s7.2}
   - {type: line-break, offset: 73, content: '', id: KR3fa031_tls_004-bkklb3}
@@ -34,4 +37,4 @@ markers:
   - {type: 'tls:seg', offset: 79, content: '', id: KR3fa031_tls_001-p2.s10}
   - {type: line-break, offset: 79, content: '', id: KX_10}
   back: []
-hash: sha256:6693f4058b717b5ac1b85d57bc618e4e780281cc2048da70485be376c4bc76ff
+hash: sha256:95285eed77a67146ee9fb31c6336fd83dac99cbe765d4c1b3ff325846a2ef052

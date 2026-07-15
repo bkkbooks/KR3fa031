@@ -26,6 +26,7 @@ markers:
   - {type: 'tls:seg', offset: 120, content: '', id: KR3fa031_tls_001-p122.s8.3}
   - {type: 'tls:seg', offset: 138, content: '', id: KR3fa031_tls_001-p122.s9}
   - {type: line-break, offset: 138, content: '', id: KX_9_dup115, _xml_error: duplicate-id, _xml_original_id: KX_9}
+  - {type: substitution, offset: 158, original: 羙, replacement: 美, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19367}}
   - {type: 'tls:seg-start', offset: 162, content: '', id: KR3fa031_tls_001-p122.s10.1, seg_type: comm, member_ids: [KR3fa031_tls_001-p122.s10.1]}
   - {type: 'tls:seg', offset: 162, content: '', id: KR3fa031_tls_001-p122.s10.1}
   - {type: line-break, offset: 162, content: '', id: KX_10_dup115, _xml_error: duplicate-id, _xml_original_id: KX_10}
@@ -43,6 +44,7 @@ markers:
   - {type: 'tls:seg-end', offset: 203, content: '', id: KR3fa031_tls_001-p122.s14.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 203, content: '', id: KR3fa031_tls_001-p122.s15}
   - {type: line-break, offset: 203, content: '', id: KX_15_dup111, _xml_error: duplicate-id, _xml_original_id: KX_15}
+  - {type: substitution, offset: 215, original: 兇, replacement: 凶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16214}}
   - {type: 'tls:seg', offset: 225, content: '', id: KR3fa031_tls_001-p122.s16}
   - {type: line-break, offset: 225, content: '', id: KX_16_dup111, _xml_error: duplicate-id, _xml_original_id: KX_16}
   - {type: 'tls:seg', offset: 245, content: '', id: KR3fa031_tls_001-p122.s17}
@@ -64,4 +66,4 @@ markers:
   - {type: 'tls:seg', offset: 308, content: '', id: KR3fa031_tls_001-p122.s21.2}
   - {type: line-break, offset: 313, content: '', id: KR3fa031_tls_256-bkklb5}
   back: []
-hash: sha256:b5236f791dd66e2c5afdb7e5e9b685fd76c828e9950d229f476381b2eb89ab7b
+hash: sha256:9e00b179770bd9aa3e896ed2aebb521884aa42367b5e6734300fa197cc9dc3ee

@@ -9,12 +9,14 @@ markers:
   - {type: line-break, offset: 24, content: '', id: KX_2_dup112, _xml_error: duplicate-id, _xml_original_id: KX_2}
   - {type: 'tls:seg', offset: 33, content: '', id: KR3fa031_tls_001-p115.s3}
   - {type: line-break, offset: 33, content: '', id: KX_3_dup111, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: substitution, offset: 53, original: 恒, replacement: 恆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20663}}
   - {type: 'tls:seg', offset: 56, content: '', id: KR3fa031_tls_001-p115.s4}
   - {type: line-break, offset: 56, content: '', id: KX_4_dup111, _xml_error: duplicate-id, _xml_original_id: KX_4}
   - {type: 'tls:seg', offset: 70, content: '', id: KR3fa031_tls_001-p115.s5}
   - {type: line-break, offset: 70, content: '', id: KX_5_dup110, _xml_error: duplicate-id, _xml_original_id: KX_5}
   - {type: 'tls:seg', offset: 78, content: '', id: KR3fa031_tls_001-p115.s6}
   - {type: line-break, offset: 78, content: '', id: KX_6_dup109, _xml_error: duplicate-id, _xml_original_id: KX_6}
+  - {type: substitution, offset: 78, original: 凢, replacement: 凡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16173}}
   - {type: 'tls:seg', offset: 102, content: '', id: KR3fa031_tls_001-p115.s7}
   - {type: line-break, offset: 102, content: '', id: KX_7_dup109, _xml_error: duplicate-id, _xml_original_id: KX_7}
   - {type: 'tls:seg', offset: 104, content: '', id: KR3fa031_tls_001-p115.s8}
@@ -44,4 +46,4 @@ markers:
   - {type: 'tls:seg', offset: 216, content: '', id: KR3fa031_tls_001-p115.s21}
   - {type: line-break, offset: 216, content: '', id: KX_21_dup101, _xml_error: duplicate-id, _xml_original_id: KX_21}
   back: []
-hash: sha256:bcdd1b80a910dbc888886554b3b68ea454350ee399358db97c97f5eab7106c5e
+hash: sha256:ac3842ecb2f555e65964260292d0619ba64bddf0218d5a417fb869c3ffb8fe48

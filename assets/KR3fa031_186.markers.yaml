@@ -7,9 +7,11 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KX_1_dup80, _xml_error: duplicate-id, _xml_original_id: KX_1}
   - {type: 'tls:seg', offset: 16, content: '', id: KR3fa031_tls_001-p87.s2}
   - {type: line-break, offset: 16, content: '', id: KX_2_dup84, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: substitution, offset: 36, original: 灾, replacement: 災, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16581}}
   - {type: punctuation, offset: 37, content: □, id: KR3fa031_tls_186-bkkpn1}
   - {type: 'tls:seg', offset: 39, content: '', id: KR3fa031_tls_001-p87.s3}
   - {type: line-break, offset: 39, content: '', id: KX_3_dup83, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: substitution, offset: 59, original: 灾, replacement: 災, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16581}}
   - {type: punctuation, offset: 60, content: □, id: KR3fa031_tls_186-bkkpn2}
   - {type: 'tls:seg', offset: 62, content: '', id: KR3fa031_tls_001-p87.s4.1}
   - {type: line-break, offset: 62, content: '', id: KX_4_dup83, _xml_error: duplicate-id, _xml_original_id: KX_4}
@@ -18,7 +20,9 @@ markers:
   - {type: line-break, offset: 86, content: '', id: KR3fa031_tls_186-bkklb1}
   - {type: 'tls:seg', offset: 87, content: '', id: KR3fa031_tls_001-p87.s5.1}
   - {type: line-break, offset: 87, content: '', id: KX_5_dup82, _xml_error: duplicate-id, _xml_original_id: KX_5}
+  - {type: substitution, offset: 95, original: 灾, replacement: 災, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16581}}
   - {type: punctuation, offset: 96, content: □, id: KR3fa031_tls_186-bkkpn3}
+  - {type: substitution, offset: 101, original: 灾, replacement: 災, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16581}}
   - {type: punctuation, offset: 102, content: □, id: KR3fa031_tls_186-bkkpn4}
   - {type: line-break, offset: 105, content: '', id: KR3fa031_tls_186-bkklb2}
   - {type: 'tls:seg-end', offset: 125, content: '', id: KR3fa031_tls_001-p87.s5.1_end, seg_type: comm}
@@ -74,4 +78,4 @@ markers:
   - {type: 'tls:seg', offset: 356, content: '', id: KR3fa031_tls_001-p87.s21}
   - {type: line-break, offset: 356, content: '', id: KX_21_dup75, _xml_error: duplicate-id, _xml_original_id: KX_21}
   back: []
-hash: sha256:6bee1bed4701c3e8c86bc8cb29e237dca16ccf7a5c1b926206c66cb3868b1424
+hash: sha256:ef71e1d07cb5447996c04fee8b92e5fde7a76d7890f04ff48d5f44b7585524b5
